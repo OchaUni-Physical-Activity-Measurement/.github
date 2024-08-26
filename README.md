@@ -1,2 +1,2 @@
 # .github
-Sharing code and data from Physical Behavior Assessment Laboratory (PI: Julien TRIPETTE) at Ochanomizu University: physical activity, machine learning, neuroinformatics
+Sharing code and data from the [Physical Behavior Assessment Laboratory](http://www.eng.ocha.ac.jp/Tripette_Site/home.html) (PI: [Julien TRIPETTE](http://www.eng.ocha.ac.jp/Tripette_Site/julien_tripette.html)) at the [Faculty of Life Science, Department of Human and Environmental Sciences](https://www.hles.ocha.ac.jp/ug/eng/index.html), [Ochanomizu University](https://www.ocha.ac.jp/index.html): physical activity, machine learning, neuroinformatics.
