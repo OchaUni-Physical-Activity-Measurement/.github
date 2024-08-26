@@ -1,0 +1,2 @@
+Sharing code and data from the [Physical Behavior Assessment Laboratory](http://www.eng.ocha.ac.jp/Tripette_Site/home.html) (PI: [Julien TRIPETTE](http://www.eng.ocha.ac.jp/Tripette_Site/julien_tripette.html)) at the [Faculty of Life Science, Department of Human and Environmental Sciences](https://www.hles.ocha.ac.jp/ug/eng/index.html), [Ochanomizu University](https://www.ocha.ac.jp/index.html): physical activity, machine learning, neuroinformatics.
+For any questions, send me an email to [tripette.julien AT ocha.ac.jp)ocha.ac.jp](tripette.julien@ocha.ac.jp)
