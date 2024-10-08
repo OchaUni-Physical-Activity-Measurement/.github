@@ -1,4 +1,4 @@
-Physical Behavior Assessment Lab (Ochanomizu University, Tokyo) | <a href="http://www.eng.ocha.ac.jp/Tripette_Site/home.html">Homepage</a>
+<strong>Physical Behavior Assessment Lab</strong> (Ochanomizu University, Tokyo) | <a href="http://www.eng.ocha.ac.jp/Tripette_Site/home.html">Homepage</a>
 
 <p> We are evaluating physical activity in various populations using wearable activity trackers. We are also developping new hardware and software methods for the measurement of physical behaviours. For example, machine learning techniques are employed to develop algorithms capable of recognizing physical behaviors using data collected from wearable devices.</p>
 <p> Our research goals are:
@@ -7,6 +7,8 @@ Physical Behavior Assessment Lab (Ochanomizu University, Tokyo) | <a href="http:
 <li>to develop new technologies to support more accurate measurements of physical behaviors.</li>
 <li>to promote physical activty as a primary component of a sustainable society.</li>
 </ol></p>
+
+<strong>This GitHub organization hosts code developed for our projects, which require original data processing and statistical analysis</strong>.
 
 <h3 id="Selected articles">Selected articles</h3>
 
@@ -38,7 +40,7 @@ This study developed an algorithm to recognize activities using plantar pressure
 </p>
 
 <!--Laboratory members-->
-<h3 id="Lab members">Lab members (past and current) </h3>
+<h3 id="Lab members">Lab members (past and current) and people who write code </h3>
 
 <p>
 <a href="http://web.is.ocha.ac.jp/~naubertkato/"> Aubert-Kato Nathanael</a> (faculty of Ochadai) [<strong>contributor</strong>] ; 
