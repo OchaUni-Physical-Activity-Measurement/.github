@@ -39,7 +39,7 @@ This study developed an algorithm to recognize activities using plantar pressure
 <a class="tag" href="https://zenodo.org/records/4050390">CODE</a> |
 </p>
 
-<p>→ Full biblio <a href="http://www.eng.ocha.ac.jp/Tripette_Site/j-trip.html#bibliography-&-other-achievements">here</a>.</p>
+<p>→ Full biblio <a href="http://www.eng.ocha.ac.jp/Tripette_Site/j-trip.html#bibliography-other-achievements">here</a>.</p>
 
 <!--Laboratory members-->
 <h3 id="Lab members">Lab members (past and current) and people who write code </h3>
