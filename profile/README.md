@@ -45,7 +45,7 @@ This study developed an algorithm to recognize activities using plantar pressure
 <h3 id="Lab members">Lab members (past and current) and people who write code </h3>
 
 <p>
-<a href="http://web.is.ocha.ac.jp/~naubertkato/"> Aubert-Kato Nathanael</a> (faculty of Ochadai) [<strong>contributor</strong>] ; 
+<a href="http://web.is.ocha.ac.jp/~naubertkato/">Aubert-Kato Nathanael</a> (faculty of Ochadai) [<strong>contributor</strong>] ; 
 <a href="https://matthieugg.github.io/">Gallou-Guyot Matthieu</a> (2023-2024) [<strong>contributor</strong>] ;
 <a href="https://github.com/Hitomi20231211">Hatori Hitomi</a> (M2, 2023-2024) [<strong>contributor</strong>] ;
 Kitayama Asami (B4/M1/M2, 2019-2022) ;
@@ -57,7 +57,8 @@ Okazaki Momoka (M1), 2023-2026 ;
 Orihara Arisa (B4, 2021-2022) ; 
 Owada Chise (B4), 2024-2025 ;
 Ren Dian  (M1/M2/D1/D2/D3), 2016-2021 ;
-Uno Kai (B4, 2022-2023) ; 
+Uno Kai (B4, 2022-2023) ;
+<a href="http://www.eng.ocha.ac.jp/Tripette_Site/j-trip.html">Tripette Julien</a> (PI) ;
 Yatsuka Kanae (B4), 2024-2025
 </p>
 
