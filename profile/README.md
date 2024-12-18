@@ -59,6 +59,7 @@ Owada Chise (B4), 2024-2025 ;
 Ren Dian  (M1/M2/D1/D2/D3), 2016-2021 ;
 Uno Kai (B4, 2022-2023) ;
 <a href="http://www.eng.ocha.ac.jp/Tripette_Site/j-trip.html">Tripette Julien</a> (PI) ;
+<a href="https://github.com/RihoYaginuma">Yaginuma Riho</a> (Ohta-Lab, 2022-2025) ;
 Yatsuka Kanae (B4), 2024-2025
 </p>
 
