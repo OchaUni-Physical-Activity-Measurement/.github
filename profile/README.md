@@ -53,7 +53,7 @@ Ikehata Tomoyo (B3/B4), 2024-2026 ;
 Kitayama Asami (B4/M1/M2, 2019-2022) ;
 Matsuno Momoka (B4, 2022-2023) ;
 Naka Rio (M2, 2022-2025) ;
-Nakajima Yuki (B4/M1/M2, 2021-2024) ;
+Nakajima Yuki (B4/M1/M2, 2021-2024) [<strong>contributor</strong>] ;
 Ohta Yuji (faculty of Ochadai) ; 
 Okazaki Momoka (M2), 2023-2026 ; 
 Orihara Arisa (B4, 2021-2022) ; 
