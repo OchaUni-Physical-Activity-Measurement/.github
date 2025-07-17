@@ -12,7 +12,15 @@
 
 <h3 id="Selected articles">Selected articles</h3>
 
-<img align="left" src="images/formative-2024-1-e51874-fig-1.jpg" width=150px heigth=auto>
+<p><img align="left" src="images/full-jmpb.2024-0053figuref5.jpg" width=150px heigth=auto>
+Gallou-Guyot M, Diaw M, Aubert-Kato N, et al. <strong> Identifying Days of Valid Wear for Studies Using Consumer-Grade Accelerometer-Based Activity Trackers: ActiWearCheck, a Python Library</strong>. <i>JMPB 2025;8(1):jmpb.2024-0053</i>. Published 2025 Jul 17. doi.org/10.1123/jmpb.2024-0053.<br>
+This study introduces ActiWearCheck, a free Python tool for identifying valid wear days from Fitbit wrist-worn activity trackers without using heart rate data. It leverages minute-level energy expenditure estimates obtained through Fitbit’s Web API. Testing with data from 72 users showed that up to 25% of invalid days could be excluded, improving average step count and energy expenditure estimates.
+<a class="tag" href="https://doi.org/10.1123/jmpb.2024-0053">DOI</a> |
+<a class="tag" href=https://journals.humankinetics.com/view/journals/jmpb/8/1/article-jmpb.2024-0053.xml">URL</a> |
+<a class="tag" href="https://journals.humankinetics.com/downloadpdf/view/journals/jmpb/8/1/article-jmpb.2024-0053.pdf">PDF</a>
+</p>
+
+<p><img align="left" src="images/formative-2024-1-e51874-fig-1.jpg" width=150px heigth=auto>
 Nakajima Y, Kitayama A, Ohta Y, et al. <strong> Objective Assessment of Physical Activity at Home Using a Novel Floor-Vibration Monitoring System: Validation and Comparison With Wearable Activity Trackers and Indirect Calorimetry Measurements</strong>. <i>JMIR Form Res. 2024;8:e51874</i>. Published 2024 Apr 25. doi:10.2196/51874.<br>
 This study evaluated the feasibility of estimating physical activity through floor vibration monitoring. Accelerometer sensors were installed in a smart home floor to capture vibration data from 10 participants during four activities. Energy expenditure was measured via indirect calorimetry, and Actigraph trackers were used to estimate both energy expenditure and step count. Models based on features extracted from floor vibrations outperformed Actigraph trackers in estimating both metrics.
 <a class="tag" href="https://doi.org/10.2196/51874">DOI</a> |
