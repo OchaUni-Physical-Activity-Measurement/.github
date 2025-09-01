@@ -12,6 +12,17 @@
 
 <h3 id="Selected articles">Selected articles</h3>
 
+<p><img align="left" src="images/JMIRFormRes-e71969-fig-1.png" width=150px heigth=auto>
+<p>Aubert-Kato N, Hatori H, Orihara A, et al. <strong>Recognizing Skateboard and Kickboard Commuting Behaviors Using Activity Trackers: Feasibility Study Using Machine Learning Approaches</strong><i>JMIR Form Res. 2025;9:e71969</i>. Published 2025 Aug 30. doi:10.2196/71969.<br>
+This study shows that wearable sensors can accurately detect skateboarding and kickboarding despite their complex push-push-glide patterns within various locomotive behaviors. With wrist-worn devices, random forest models achieved high sensitivity (93–99%). Grouping both activities into a superclass improved accuracy across devices (hip, wrist, pocket), underscoring the potential of such algorithms for integration into activity tracker software.
+<a class="tag" href="https://doi.org/10.2196/71969">DOI</a> |
+<a class="tag" href="https://formative.jmir.org/2025/1/e71969">URL</a> |
+<a class="tag" href="https://formative.jmir.org/2025/1/e71969/PDF">PDF</a> |
+<a class="tag" href="https://zenodo.org/records/14769798">DATA</a> |
+<a class="tag" href="https://zenodo.org/records/14769798">CODE</a>
+</p>
+
+
 <p><img align="left" src="images/full-jmpb.2024-0053figuref5.jpg" width=150px heigth=auto>
 Gallou-Guyot M, Diaw M, Aubert-Kato N, et al. <strong> Identifying Days of Valid Wear for Studies Using Consumer-Grade Accelerometer-Based Activity Trackers: ActiWearCheck, a Python Library</strong>. <i>JMPB 2025;8(1):jmpb.2024-0053</i>. Published 2025 Jul 17. doi.org/10.1123/jmpb.2024-0053.<br>
 This study introduces ActiWearCheck, a free Python tool for identifying valid wear days from Fitbit wrist-worn activity trackers without using heart rate data. It leverages minute-level energy expenditure estimates obtained through Fitbit’s Web API. Testing with data from 72 users showed that up to 25% of invalid days could be excluded, improving average step count and energy expenditure estimates.
