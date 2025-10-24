@@ -13,7 +13,7 @@
 <h3 id="Selected articles">Selected articles</h3>
 
 <p><img align="left" src="images/JMIRFormRes-e71969-fig-1.png" width=150px heigth=auto>
-<p>Aubert-Kato N, Hatori H, Orihara A, et al. <strong>Recognizing Skateboard and Kickboard Commuting Behaviors Using Activity Trackers: Feasibility Study Using Machine Learning Approaches</strong><i>JMIR Form Res. 2025;9:e71969</i>. Published 2025 Aug 30. doi:10.2196/71969.<br>
+<p>Aubert-Kato N, Hatori H, Orihara A, et al. <strong>Recognizing Skateboard and Kickboard Commuting Behaviors Using Activity Trackers: Feasibility Study Using Machine Learning Approaches</strong>. <i>JMIR Form Res. 2025;9:e71969</i>. Published 2025 Aug 30. doi:10.2196/71969.<br>
 This study shows that wearable sensors can accurately detect skateboarding and kickboarding within various locomotive behaviors despite their complex push-push-glide patterns. With wrist-worn devices, random forest models achieved high sensitivity (93–99%) for these two activities. Grouping both activities into a superclass improved accuracy across devices (hip, wrist, pocket), underscoring the potential of such algorithms for integration into activity tracker software.
 <a class="tag" href="https://doi.org/10.2196/71969">DOI</a> |
 <a class="tag" href="https://formative.jmir.org/2025/1/e71969">URL</a> |
