@@ -22,7 +22,7 @@ This study shows that wearable sensors can accurately detect skateboarding and k
 <a class="tag" href="https://zenodo.org/records/14769798">CODE</a>
 </p>
 
-<p>[JMPB 2025 Emerging Scholar Paper of the Year Award]</p>
+<p><i>JMPB 2025 Emerging Scholar Paper of the Year Award:</i></p>
 
 <p><img align="left" src="images/full-jmpb.2024-0053figuref5.jpg" width=150px heigth=auto>
 Gallou-Guyot M, Diaw M, Aubert-Kato N, et al. <strong> Identifying Days of Valid Wear for Studies Using Consumer-Grade Accelerometer-Based Activity Trackers: ActiWearCheck, a Python Library</strong>. <i>JMPB 2025;8(1):jmpb.2024-0053</i>. Published 2025 Jul 17. doi.org/10.1123/jmpb.2024-0053.<br>
