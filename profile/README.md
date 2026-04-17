@@ -62,26 +62,39 @@ This study developed an algorithm to recognize activities using plantar pressure
 <p>→ Full biblio <a href="http://www.eng.ocha.ac.jp/Tripette_Site/j-trip.html#bibliography-other-achievements">here</a>.</p>
 
 <!--Laboratory members-->
-<h3 id="Lab members">Lab members (past and current) and people who write code </h3>
+<h3 id="Lab members">Past and current lab members</h3>
+<ul>
+<li><a href="http://www.eng.ocha.ac.jp/Tripette_Site/j-trip.html">Tripette Julien</a> (PI, 2021-...)</li>
+<li>Tanaka Miori (B3/B4, 2025-...)</li>
+<li>Matsubara Kotomi (B3/B4, 2025-...)</li>
+<li>Ikehata Tomoyo (B3/B4, 2024-...)</li>
+<li>Anbe Hitomi (B3/B4, 2024-2026)</li>
+<li>Okazaki Momoka (B4/M1/M2, 2023-2026)</li>
+<li>Owada Chise (B3/B4, 2023-2025)</li>
+<li>Yatsuzuka Kanae (B3/B4, 2023-2025)</li>
+<li>Naka Rio (B4/M1/M2, 2022-2025)</li>
+<li><a href="https://matthieugg.github.io/">Gallou-Guyot Matthieu</a> (PD, 2023-2024)</li>
+<li>Hatori Hitomi (M2, 2023-2024)</li>
+<li>Nakajima Yuki (B4/M1/M2, 2021-2024)</li>
+<li>Uno Kai (B4, 2022-2023)</li>
+<li>Matsuno Momoka (B4, 2022-2023)</li>
+<li>Orihara Arisa (B4, 2021-2022)</li>
+<li>Kitayama Asami (B4/M1/M2, 2019-2022)</li>
+<li>Ren Dian (M1/M2/D1/D2/D3, 2016-2021)</li>
+</ul>
 
+<h3 id="Lab members">People who wrote/write code </h3>
 <p>
-Anbe Hitomi (B3/B4), 2024-2026 ; 
-<a href="http://web.is.ocha.ac.jp/~naubertkato/">Aubert-Kato Nathanael</a> (faculty of Ochadai) [<strong>contributor</strong>] ; 
-<a href="https://matthieugg.github.io/">Gallou-Guyot Matthieu</a> (2023-2024) [<strong>contributor</strong>] ;
-<a href="https://github.com/Hitomi20231211">Hatori Hitomi</a> (M2, 2023-2024) [<strong>contributor</strong>] ;
-Ikehata Tomoyo (B3/B4), 2024-2026 ;
-Kitayama Asami (B4/M1/M2, 2019-2022) ;
-Matsuno Momoka (B4, 2022-2023) ;
-Naka Rio (M2, 2022-2025) ;
-Nakajima Yuki (B4/M1/M2, 2021-2024) [<strong>contributor</strong>] ;
-Ohta Yuji (faculty of Ochadai) ; 
-Okazaki Momoka (M2), 2023-2026 ; 
-Orihara Arisa (B4, 2021-2022) ; 
-Owada Chise (B4, 2024-2025) ;
-Ren Dian  (M1/M2/D1/D2/D3, 2016-2021) ;
-Uno Kai (B4, 2022-2023) ;
-<a href="http://www.eng.ocha.ac.jp/Tripette_Site/j-trip.html">Tripette Julien</a> (PI) ;
-<a href="https://github.com/RihoYaginuma">Yaginuma Riho</a> (Ohta-Lab, 2022-2025) ;
-Yatsuka Kanae (B4, 2024-2025)
+Anbe Hitomi, 
+<a href="http://web.is.ocha.ac.jp/~naubertkato/">Aubert-Kato Nathanael</a>, 
+<a href="https://matthieugg.github.io/">Gallou-Guyot Matthieu</a>,
+Hatori Hitomi,
+Kano Momone,
+Kitayama Asami,
+Nakajima Yuki,
+Okazaki Momoka,
+Ren Dian,
+<a href="http://www.eng.ocha.ac.jp/Tripette_Site/j-trip.html">Tripette Julien</a>;
+<a href="https://github.com/RihoYaginuma">Yaginuma Riho</a>;
 </p>
 
