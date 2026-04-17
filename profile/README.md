@@ -24,7 +24,8 @@ This study shows that wearable sensors can accurately detect skateboarding and k
 
 
 <p><img align="left" src="images/full-jmpb.2024-0053figuref5.jpg" width=150px heigth=auto>
-<i>JMPB 2025 Emerging Scholar Paper of the Year Award :</i>&emsp; Gallou-Guyot M, Diaw M, Aubert-Kato N, et al. <strong> Identifying Days of Valid Wear for Studies Using Consumer-Grade Accelerometer-Based Activity Trackers: ActiWearCheck, a Python Library</strong>. <i>JMPB 2025;8(1):jmpb.2024-0053</i>. Published 2025 Jul 17. doi.org/10.1123/jmpb.2024-0053.<br>
+🥇<i>JMPB 2025 Emerging Scholar Paper of the Year Award:</i><br>
+Gallou-Guyot M, Diaw M, Aubert-Kato N, et al. <strong> Identifying Days of Valid Wear for Studies Using Consumer-Grade Accelerometer-Based Activity Trackers: ActiWearCheck, a Python Library</strong>. <i>JMPB 2025;8(1):jmpb.2024-0053</i>. Published 2025 Jul 17. doi.org/10.1123/jmpb.2024-0053.
 This study introduces ActiWearCheck, a free Python tool for identifying valid wear days from Fitbit wrist-worn activity trackers without using heart rate data. It leverages minute-level energy expenditure estimates obtained through Fitbit’s Web API. Testing with data from 72 users showed that up to 25% of invalid days could be excluded, improving average step count and energy expenditure estimates.
 <a class="tag" href="https://doi.org/10.1123/jmpb.2024-0053">DOI</a> |
 <a class="tag" href=https://journals.humankinetics.com/view/journals/jmpb/8/1/article-jmpb.2024-0053.xml">URL</a> |
